@@ -1,0 +1,2 @@
+airflow users create --username admin --firstname pamela --lastname olowojebutu --role Admin --email pam.olowo@gmail.com
+airflow users create --username pamolowo --firstname pamela --lastname olowojebutu --role Admin --email pamela.olowojebutu@gmail.com
